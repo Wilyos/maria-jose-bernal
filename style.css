@@ -3,7 +3,7 @@
 ════════════════════════════════════════════════════════ */
 :root {
   /* ── Paleta oficial Fenalco ── */
-  --fn-purple:    #280072;   /* morado principal         */
+  --fn-purple:    #4000B7;   /* morado principal         */
   --fn-navy:      #0C1859;   /* azul oscuro              */
   --fn-teal:      #49A695;   /* verde azulado            */
   --fn-green:     #23CF79;   /* verde brillante          */
@@ -12,11 +12,11 @@
 
   /* ── Neutros ── */
   --dark:         #0C1859;   /* navy como oscuro base    */
-  --dark-2:       #150050;   /* morado muy oscuro        */
-  --dark-3:       #1e0a6e;   /* morado intermedio        */
+  --dark-2:       #261F33;   /* morado muy oscuro        */
+  --dark-3:       #322152;   /* morado intermedio        */
   --gray:         #6B7280;
   --gray-lt:      #9CA3AF;
-  --light:        #F5F4FF;   /* tinte lila muy suave     */
+  --light:        #F8F9FF;   /* tinte zircon muy suave     */
   --white:        #FFFFFF;
 
   --radius-sm:  8px;
@@ -561,7 +561,7 @@ ul { list-style: none; }
 }
 
 .sf-logo-wrap {
-  background: var(--fn-purple);
+  background: var(--light);
   border-radius: var(--radius-md);
   padding: 24px 28px;
   margin-bottom: 20px;
